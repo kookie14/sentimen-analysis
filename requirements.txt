@@ -1,0 +1,42 @@
+Package                            Version             Location      
+---------------------------------- ------------------- --------------           
+python                              >= 3.7
+Keras                              2.2.4               
+Keras-Applications                 1.0.8               
+Keras-Preprocessing                1.1.0               
+keras-rcnn                         0.0.2               
+keras-resnet                       0.2.0               
+keras-rl                           0.4.2               
+keras-tqdm                         2.0.1                          
+numpy                              1.16.4              
+numpydoc                           0.9.1                                                    
+pandas                             0.23.4              
+path.py                            12.0.1              
+plotly                             3.10.0                          
+preprocessing                      0.1.13                                 
+pyvi                               0.1.1                          
+scikit-image                       0.15.0              
+scikit-learn                       0.21.2              
+scikit-multilearn                  0.2.0               
+scikit-optimize                    0.5.2               
+scikit-plot                        0.3.7               
+scikit-surprise                    1.0.6               
+scipy                              1.2.1               
+scs                                2.1.1.post2         
+seaborn                            0.9.0               
+sklearn                            0.0                 
+sklearn-contrib-lightning          0.5.0               
+sklearn-contrib-py-earth           0.1.0+1.gdde5f89    
+sklearn-crfsuite                   0.3.6               
+sklearn-pandas                     1.8.0               
+tensorboard                        1.14.0              
+tensorboardX                       1.8                 
+tensorflow                         1.14.0              
+tensorflow-estimator               1.14.0              
+tensorflow-hub                     0.5.0               
+tensorflow-probability             0.7.0               
+tensorforce                        0.4.3               
+tensorpack                         0.9.5               
+torch                              1.1.0               
+tqdm                               4.32.1              
+Unidecode                          1.1.1               
